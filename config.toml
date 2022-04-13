@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://filo31410.github.io/testhugo.github.io/"
 
 theme = 'hugo-dsfr'
 
