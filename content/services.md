@@ -106,7 +106,7 @@ weight: 2
     </blockquote>
     <figcaption>
         <div class="fr-quote__image">
-            <img src="/images/apps.jpeg" class="fr-responsive-img" alt="" />
+            <img src="/testhugo.github.io/images/apps.jpeg" class="fr-responsive-img" alt="" />
             <!-- L’alternative de l’image (attribut alt) doit rester vide car l’image est illustrative et ne doit pas être restituée aux technologies d’assistance -->
         </div>
     </figcaption>
