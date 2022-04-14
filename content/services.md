@@ -10,15 +10,16 @@ weight: 2
 
 
 {{< rawhtml >}}
-<h3> Accordéon <p class="fr-badge fr-badge--new fr-badge--sm">Nouveau ! (Label badge)</p></h3>
+
 <div class="fr-accordions-group">
     <section class="fr-accordion">
         <h3 class="fr-accordion__title">
-            <button class="fr-accordion__btn" aria-expanded="false" aria-controls="accordion-114">Intitulé accordéon</button>
+            <button class="fr-accordion__btn" aria-expanded="false" aria-controls="accordion-114">Analyser</button>
         </h3>
         <div class="fr-collapse" id="accordion-114">
+         <div class="fond_clair">
             <!-- données de test -->
-            <h4 class="fr-h4">Contenu </h4>
+            <h4 class="fr-h4">Analyser </h4>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing, <a href="test" target="_blank">link test</a> incididunt, ut labore et dolore magna aliqua. Vitae sapien pellentesque habitant morbi tristique senectus et. Diam maecenas sed enim ut. Accumsan lacus vel facilisis volutpat est. Ut aliquam purus sit amet luctus. Lorem ipsum dolor sit amet consectetur adipiscing elit ut.</p>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing, <a href="test" target="_blank">link test</a> incididunt, ut labore et dolore magna aliqua. Vitae sapien pellentesque habitant morbi tristique senectus et. Diam maecenas sed enim ut. Accumsan lacus vel facilisis volutpat est. Ut aliquam purus sit amet luctus. Lorem ipsum dolor sit amet consectetur adipiscing elit ut.</p>
             <ul>
@@ -32,31 +33,12 @@ weight: 2
                 </li>
             </ul>
         </div>
-    </section>
-    <section class="fr-accordion">
-        <h3 class="fr-accordion__title">
-            <button class="fr-accordion__btn" aria-expanded="false" aria-controls="accordion-115">Intitulé accordéon</button>
-        </h3>
-        <div class="fr-collapse" id="accordion-115">
-            <!-- données de test -->
-            <h4 class="fr-h4">Contenu </h4>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing, <a href="test" target="_blank">link test</a> incididunt, ut labore et dolore magna aliqua. Vitae sapien pellentesque habitant morbi tristique senectus et. Diam maecenas sed enim ut. Accumsan lacus vel facilisis volutpat est. Ut aliquam purus sit amet luctus. Lorem ipsum dolor sit amet consectetur adipiscing elit ut.</p>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing, <a href="test" target="_blank">link test</a> incididunt, ut labore et dolore magna aliqua. Vitae sapien pellentesque habitant morbi tristique senectus et. Diam maecenas sed enim ut. Accumsan lacus vel facilisis volutpat est. Ut aliquam purus sit amet luctus. Lorem ipsum dolor sit amet consectetur adipiscing elit ut.</p>
-            <ul>
-                <li>list item</li>
-                <li>list item</li>
-                <li>list item<ul>
-                        <li>list item niveau 2</li>
-                        <li>list item niveau 2</li>
-                        <li>list item niveau 2</li>
-                    </ul>
-                </li>
-            </ul>
         </div>
     </section>
+    
     <section class="fr-accordion">
         <h3 class="fr-accordion__title">
-            <button class="fr-accordion__btn" aria-expanded="false" aria-controls="accordion-116">Intitulé accordéon</button>
+            <button class="fr-accordion__btn" aria-expanded="false" aria-controls="accordion-116">Concevoir</button>
         </h3>
         <div class="fr-collapse" id="accordion-116">
             <!-- données de test -->
@@ -77,7 +59,49 @@ weight: 2
     </section>
     <section class="fr-accordion">
         <h3 class="fr-accordion__title">
-            <button class="fr-accordion__btn" aria-expanded="false" aria-controls="accordion-117">Intitulé accordéon</button>
+            <button class="fr-accordion__btn" aria-expanded="false" aria-controls="accordion-117">Développer</button>
+        </h3>
+        <div class="fr-collapse" id="accordion-117">
+            <!-- données de test -->
+            <h4 class="fr-h4">Contenu </h4>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing, <a href="test" target="_blank">link test</a> incididunt, ut labore et dolore magna aliqua. Vitae sapien pellentesque habitant morbi tristique senectus et. Diam maecenas sed enim ut. Accumsan lacus vel facilisis volutpat est. Ut aliquam purus sit amet luctus. Lorem ipsum dolor sit amet consectetur adipiscing elit ut.</p>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing, <a href="test" target="_blank">link test</a> incididunt, ut labore et dolore magna aliqua. Vitae sapien pellentesque habitant morbi tristique senectus et. Diam maecenas sed enim ut. Accumsan lacus vel facilisis volutpat est. Ut aliquam purus sit amet luctus. Lorem ipsum dolor sit amet consectetur adipiscing elit ut.</p>
+            <ul>
+                <li>list item</li>
+                <li>list item</li>
+                <li>list item<ul>
+                        <li>list item niveau 2</li>
+                        <li>list item niveau 2</li>
+                        <li>list item niveau 2</li>
+                    </ul>
+                </li>
+            </ul>
+        </div>
+    </section>
+    <section class="fr-accordion">
+        <h3 class="fr-accordion__title">
+            <button class="fr-accordion__btn" aria-expanded="false" aria-controls="accordion-117">Déployer</button>
+        </h3>
+        <div class="fr-collapse" id="accordion-117">
+            <!-- données de test -->
+            <h4 class="fr-h4">Contenu </h4>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
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing, <a href="test" target="_blank">link test</a> incididunt, ut labore et dolore magna aliqua. Vitae sapien pellentesque habitant morbi tristique senectus et. Diam maecenas sed enim ut. Accumsan lacus vel facilisis volutpat est. Ut aliquam purus sit amet luctus. Lorem ipsum dolor sit amet consectetur adipiscing elit ut.</p>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing, <a href="test" target="_blank">link test</a> incididunt, ut labore et dolore magna aliqua. Vitae sapien pellentesque habitant morbi tristique senectus et. Diam maecenas sed enim ut. Accumsan lacus vel facilisis volutpat est. Ut aliquam purus sit amet luctus. Lorem ipsum dolor sit amet consectetur adipiscing elit ut.</p>
+            <ul>
+                <li>list item</li>
+                <li>list item</li>
+                <li>list item<ul>
+                        <li>list item niveau 2</li>
+                        <li>list item niveau 2</li>
+                        <li>list item niveau 2</li>
+                    </ul>
+                </li>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
+            </ul>
+        </div>
+    </section>
+    <section class="fr-accordion">
+        <h3 class="fr-accordion__title">
+            <button class="fr-accordion__btn" aria-expanded="false" aria-controls="accordion-117">Accompagner</button>
         </h3>
         <div class="fr-collapse" id="accordion-117">
             <!-- données de test -->
